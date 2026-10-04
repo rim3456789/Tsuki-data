@@ -20,7 +20,9 @@
   },
   {
     "title": "Animes isekai",
-    "video": "https://ia800401.us.archive.org/35/items/3731-1/3731_1.mp4"
+    "video": "https://ia800401.us.archive.org/35/items/3731-1/3731_1.mp4",
+    "subtitles": [{ "url": "https://raw.githubusercontent.com/rim3456789/Tsuki-data/refs/heads/main/Prueba.srt", "lang": "es", "label": "Español" }
+    ]
   },
   {
     "title": "Prueba audio y subtítulos",
