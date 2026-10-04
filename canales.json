@@ -7,7 +7,7 @@
   },
   {
     "name": "Canal de prueba 2",
-    "stream": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    "stream": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL",
     "category": "Pruebas"
   },
   {
