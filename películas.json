@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Big Buck Bunny",
+    "poster": "https://picsum.photos/400/400",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "description": "Película de prueba abierta.",
+    "year": 2008,
+    "duration": "10 min",
+    "genre": "Animación",
+    "quality": "HD"
+  },
+  {
+    "title": "Película de prueba 2",
+    "video": "https://ejemplo.com/video2.mp4"
+  },
+  {
+    "title": "Película de prueba 3"
+  }
+]
