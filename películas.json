@@ -7,7 +7,9 @@
     "year": 2008,
     "duration": "10 min",
     "genre": "Animación",
-    "quality": "HD"
+    "quality": "HD",
+    "subtitles": [{ "url": "https://raw.githubusercontent.com/rim3456789/Tsuki-data/refs/heads/main/Prueba.srt", "lang": "es", "label": "Español" }
+    ]
   },
   {
     "title": "Película de prueba 2",
@@ -25,7 +27,5 @@
     "video": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
     "description": "Stream de prueba con varios idiomas.",
     "genre": "Prueba"
-    "subtitles": [{ "url": "https://raw.githubusercontent.com/rim3456789/Tsuki-data/refs/heads/main/Prueba.srt", "lang": "es", "label": "Español" }
-    ]
   }
 ]
