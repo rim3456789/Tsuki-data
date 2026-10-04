@@ -26,7 +26,7 @@
     "description": "Stream de prueba con varios idiomas.",
     "genre": "Prueba"
     "subtitles": [
-  { "url": "https://raw.githubusercontent.com/USUARIO/tsuki-data/main/prueba.srt", "lang": "es", "label": "Español" }
+  { "url": "https://raw.githubusercontent.com/rim3456789/Tsuki-data/refs/heads/main/Prueba.srt", "lang": "es", "label": "Español" }
     ]
   }
 ]
