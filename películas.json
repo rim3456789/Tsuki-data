@@ -19,5 +19,11 @@
   {
     "title": "Animes isekai",
     "video": "https://ia800401.us.archive.org/35/items/3731-1/3731_1.mp4"
+  },
+  {
+    "title": "Prueba audio y subtítulos",
+    "video": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+    "description": "Stream de prueba con varios idiomas.",
+    "genre": "Prueba"
   }
 ]
