@@ -28,7 +28,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia600505.us.archive.org/29/items/logos_20260322/a24.png" group-title="General",A24
-https://www.youtube.com/c/A24com/live
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/ciudadmagazine.png" group-title="General",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
