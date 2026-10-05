@@ -3,179 +3,29 @@
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/120px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TV Publica" tvg-name="TV Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="General",TV Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1,El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:0,Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1,TELEFE0
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1,Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:0,EL 1 WEB TV Universidad de La Matanza
-http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:-1,El Nueve
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
-#EXTINF:0,Canal 4 La Matanza
-http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
+#EXTINF:-1,America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1,09 AMERICA TV HD
-https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b.m3u8
-
-#EXTINF:-1,19 Canal 26 | HD
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTGRP:VARIADO
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTGRP:VARIADO
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.imgur.com/nR6Fcm2.png" group-title = "DEPORTES", DeporTV (Argentina)
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-# EXTINF: 0,24 / 7 Noticias
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-
-# EXTINF: 0, Music Top (ARG)
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF: -1, Canal 26 1
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF: -1, Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-
-# EXTINF: -1, Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF: -1 tipo = "secuencia" tvg-logo = "https://buscador.cablevisionfibertel.com.ar/logos/358.png" group-title = "Deportes", Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="NOTICIAS",Canal 26 (Argentina)
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-
-#EXTINF:-1,Music Top Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1,DEPORT TV OP03
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,DEPOR TV OP05
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
-
-#EXTINF:-1,RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1,MC Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1,type="stream"  title="MUSICA" -  Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-
-#EXTINF:0,ARG CANAL 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-
-#EXTINF:-1,CDO Deportes
-http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w2122173553.m3u8
-
-#EXTINF:-1,I MUSIC
-http://stream.1music.hu/stream/1music.m3u8
-
-#EXTINF:-1,RIVER TV
-https://kalhlspd-a.akamaihd.net/fhls/p/1164832/sp/116483200/serveFlavor/entryId/0_qc5xtm8o/v/2/ev/6/flavorId/0_8s0un0lm/name/a.mp4/index.m3u8
-
-#EXTINF:-1,GOLDEN PLUS
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-
-#EXTINF:-1,
-http://i.imgur.com/Kkj5IF9.png"
-
-#EXTINF:-1,ENTRETENIMIENTO:NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,animal+planet
-http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg"
+#EXTINF:-1,A24
+https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1,DEPORTES:ESPN
-http://bit.ly/2AoZTVs
-
-#EXTINF:-1,DISTRITO COMEDIA
-http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8
-
-#EXTINF:-1,ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
-
-#EXTINF:-1,Deportes ESPN 3
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-
-#EXTINF:-1,ARGENTINA:Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1,
-http://i.imgur.com/pllt5rw.png"
-
-#EXTINF:-1,SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,DEPORTES:AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1,DEPORTES:AD Sports 1 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-
-#EXTINF:-1,DEPORTES:AD Sports 2 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-#EXTINF:-1,http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-
-#EXTINF:-1,http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-
-#EXTINF:-1,canal estrella
-https://2.bp.blogspot.com/-0Q2RVhTnwFk/VhlQaCBa5eI/AAAAAAAACeQ/co9A4yOD0ec/s1600-r/Estrella%2BTV%2Blogo.jpg"
-
-#EXTINF:-1,telemundo
-http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
-
-#EXTINF:-1,cartoon-network
-https://logoeps.com/wp-content/uploads/2012/04/cartoon-network-logo-vector-01.png"
-
-#EXTINF:-1,Channel(NICK_JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 
 #EXTINF:-1,ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
 
 #EXTINF:-1,ESPN 2
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-
-#EXTINF:-1,ARGENTINA:Canal 26 1
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,ARGENTINA:Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,ARGENTINA:Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1,MUSICA:M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:Melody Channel HD
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MUSICA:Xite
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-
-#EXTINF:-1,MUSICA:CHAU Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-#EXTINF:-1,TELEFE0
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
