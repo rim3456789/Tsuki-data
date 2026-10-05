@@ -32,3 +32,6 @@ https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/ciudadmagazine.png" group-title="General",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 group-title="General",Ciudad Magazine
+https://list.iptvcat.com/my_list/s/fc9088f40c0e6fc22517380db31ef7f3.m3u8
