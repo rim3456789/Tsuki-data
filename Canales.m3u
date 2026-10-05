@@ -41,3 +41,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 group-title="General",Ciudad Magazine
 https://list.iptvcat.com/my_list/s/fc9088f40c0e6fc22517380db31ef7f3.m3u8
+
+#EXTINF:-1 tvg-id="IB3 2" group-title="Baleares",IB3 2 
+#EXTV-index: 1
+#EXTV-streamtype: "youtube"
+https://www.youtube.com/IB3/live
