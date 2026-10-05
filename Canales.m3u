@@ -1,25 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/eltrece.png" group-title="General",El Trece
+#EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/eltrece.png" group-title="General",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/eltrece.png" group-title="General",El Trece
+#EXTINF:-1 group-title="General",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 group-title="General",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/telefe.png" group-title="General",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
+#EXTINF:-1 group-title="General",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 group-title="General",Telefe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/telemax.png" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/nueve.png" group-title="General",El Nueve
+#EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/nueve.png" group-title="General",El Nueve
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
-#EXTINF:-1 tvg-id="America TV" tvg-name="America TV" tvg-logo="https://ia600505.us.archive.org/29/items/logos_20260322/america.png" group-title="General",America TV
+#EXTINF:-1 tvg-logo="https://ia600505.us.archive.org/29/items/logos_20260322/america.png" group-title="General",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://ia600505.us.archive.org/29/items/logos_20260322/a24.png" group-title="General",A24
+#EXTINF:-1 tvg-logo="https://ia600505.us.archive.org/29/items/logos_20260322/a24.png" group-title="General",A24
 https://www.youtube.com/c/A24com/live
 
-#EXTINF:-1 tvg-id="Ciudad Magazine" tvg-name="Ciudad Magazine" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/ciudadmagazine.png" group-title="General",Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/ciudadmagazine.png" group-title="General",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
