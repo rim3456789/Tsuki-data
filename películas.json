@@ -1,1 +1,146 @@
-
+[
+  {
+    "title": "Alerta roja",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/bQUDLEVPvXOy4wMgd3Z5D1ikBND.jpg",
+    "video": "https://ia600704.us.archive.org/3/items/alerojo_202605/alerojo.mp4",
+    "year": 2021,
+    "genre": "Accion",
+    "quality": "HD"
+  },
+  {
+    "title": "Arma mortal",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg",
+    "video": "",
+    "year": 1987,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Arma mortal 2",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oyEcR3MhEJVCMwxAd9Jyb4gQfv3.jpg",
+    "video": "",
+    "year": 1989,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Arma mortal 3",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/3JInVf7jLXIt9OTbdLv88CP2eE6.jpg",
+    "video": "",
+    "year": 1992,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Arma mortal 4",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/jGpqtRWA4RSol1bPvHiCpWg1CDI.jpg",
+    "video": "",
+    "year": 1998,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Rambo: Primera sangre",
+    "poster": "",
+    "video": "",
+    "year": 1982,
+    "genre": "Accion, Drama, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Rambo 2",
+    "poster": "",
+    "video": "",
+    "year": 1985,
+    "genre": "Accion, Aventura, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Rambo 3",
+    "poster": "",
+    "video": "",
+    "year": 1988,
+    "genre": "Accion, Aventura, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Rambo 4",
+    "poster": "",
+    "video": "",
+    "year": 2008,
+    "genre": "Accion, Suspenso, Guerra",
+    "quality": "HD"
+  },
+  {
+    "title": "Rambo 5: Last Blood",
+    "poster": "",
+    "video": "",
+    "year": 2019,
+    "genre": "Accion, Suspenso, Drama",
+    "quality": "HD"
+  },
+  {
+    "title": "John Wick",
+    "poster": "",
+    "video": "",
+    "year": 2014,
+    "genre": "Accion, Suspenso, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "John Wick 2",
+    "poster": "",
+    "video": "",
+    "year": 2017,
+    "genre": "Accion, Suspenso, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "John Wick 3: Parabellum",
+    "poster": "",
+    "video": "",
+    "year": 2019,
+    "genre": "Accion, Suspenso, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "John Wick 4",
+    "poster": "",
+    "video": "",
+    "year": 2023,
+    "genre": "Accion, Suspenso, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Una pareja explosiva",
+    "poster": "",
+    "video": "",
+    "year": 1998,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Una pareja explosiva 2",
+    "poster": "",
+    "video": "",
+    "year": 2001,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Una pareja explosiva 3",
+    "poster": "",
+    "video": "",
+    "year": 2007,
+    "genre": "Accion, Comedia, Crimen",
+    "quality": "HD"
+  },
+  {
+    "title": "Eramos soldados",
+    "poster": "",
+    "video": "",
+    "year": 2002,
+    "genre": "Guerra, Drama, Accion",
+    "quality": "HD"
+  }
+]
