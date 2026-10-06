@@ -40,7 +40,7 @@
     "quality": "HD"
   },
   {
-    "title": "Rambo: Primera sangre",
+    "title": "Rambo",
     "poster": "",
     "video": "",
     "year": 1982,
@@ -82,7 +82,7 @@
   {
     "title": "John Wick",
     "poster": "",
-    "video": "",
+    "video": "https://dn721800.ca.archive.org/0/items/otro-dia-para-matar-4-k-hdr/Otro%20dia%20para%20Matar%204K%20HDR.mp4",
     "year": 2014,
     "genre": "Accion, Suspenso, Crimen",
     "quality": "HD"
@@ -114,7 +114,7 @@
   {
     "title": "Una pareja explosiva",
     "poster": "",
-    "video": "",
+    "video": "https://ia600908.us.archive.org/35/items/una-pareja-explosiva_202601/una%20pareja%20explosiva.mp4",
     "year": 1998,
     "genre": "Accion, Comedia, Crimen",
     "quality": "HD"
@@ -122,7 +122,7 @@
   {
     "title": "Una pareja explosiva 2",
     "poster": "",
-    "video": "",
+    "video": "https://ia800705.us.archive.org/5/items/una-pareja-explosiva-2_202601/una%20pareja%20explosiva2.mp4",
     "year": 2001,
     "genre": "Accion, Comedia, Crimen",
     "quality": "HD"
@@ -130,7 +130,7 @@
   {
     "title": "Una pareja explosiva 3",
     "poster": "",
-    "video": "",
+    "video": "https://ia601409.us.archive.org/25/items/una-pareja-explosiva-3_202601/una%20pareja%20explosiva3.mp4",
     "year": 2007,
     "genre": "Accion, Comedia, Crimen",
     "quality": "HD"
@@ -141,6 +141,46 @@
     "video": "",
     "year": 2002,
     "genre": "Guerra, Drama, Accion",
+    "quality": "HD"
+  },
+  {
+    "title": "Piratas del Caribe: La maldicion de la Perla Negra",
+    "poster": "",
+    "video": "https://ia601800.us.archive.org/23/items/tg_96d0e15c5f8a466eb348e770a765bc48/57MF6CUpQgjo.mp4",
+    "year": 2003,
+    "genre": "Aventura, Accion, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "Piratas del Caribe 2: El cofre del hombre muerto",
+    "poster": "",
+    "video": "https://ia801800.us.archive.org/32/items/tg_eaa852b446f248c3ab203f101e69a0e5/3A38neqQtbua.mp4",
+    "year": 2006,
+    "genre": "Aventura, Accion, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "Piratas del Caribe 3: En el fin del mundo",
+    "poster": "",
+    "video": "https://ia601400.us.archive.org/29/items/tg_de67260161c44e6c8fc85f002a7711f0/SMaDoey4VFZn.mp4",
+    "year": 2007,
+    "genre": "Aventura, Accion, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "Piratas del Caribe 4: En mareas misteriosas",
+    "poster": "",
+    "video": "https://ia803206.us.archive.org/3/items/tg_2d03ecdcfe3f49b8aae3338d6606a262/TsS962hx0hBK.mp4",
+    "year": 2011,
+    "genre": "Aventura, Accion, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "Piratas del Caribe 5: La venganza de Salazar",
+    "poster": "",
+    "video": "https://ia600906.us.archive.org/21/items/tg_807dfb8a1d2e4c2d95383576e8579027/LX4mJxs6dwfs.mp4",
+    "year": 2017,
+    "genre": "Aventura, Accion, Fantasia",
     "quality": "HD"
   }
 ]
