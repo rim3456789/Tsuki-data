@@ -101,19 +101,19 @@ http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712703.ts
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712704.ts
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://ia800505.us.archive.org/29/items/logos_20260322/ciudadmagazine.png" group-title="General",Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
-https://list.iptvcat.com/my_list/s/fc9088f40c0e6fc22517380db31ef7f3.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
 http://181.209.80.115:8000/play/ciudad_magazine
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
+http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712732.ts
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
 https://alltvmx.com/live/walther_rod/Rodriguez2024W/712732.ts
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
-http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712732.ts
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" group-title="General",Ciudad Magazine
+https://list.iptvcat.com/my_list/s/fc9088f40c0e6fc22517380db31ef7f3.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://dn720003.ca.archive.org/0/items/logos_20260322/tvpublica.png" group-title="General",TV Pública
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
