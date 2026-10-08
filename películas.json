@@ -42,7 +42,7 @@
   {
     "title": "Rambo: Primera sangre",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
-    "video": "https://archive.org/download/4738-1080p/4738%281080p%29.mkv",
+    "video": "",
     "year": 1982,
     "genre": "Accion, Drama, Suspenso",
     "quality": "HD"
@@ -50,7 +50,7 @@
   {
     "title": "Rambo 2",
     "poster": "",
-    "video": "https://ia601808.us.archive.org/4/items/4738-1080p/4738%281080p%29.mp4",
+    "video": "https://archive.org/download/4738-1080p/4738%281080p%29.mkv",
     "year": 1985,
     "genre": "Accion, Aventura, Suspenso",
     "quality": "HD"
