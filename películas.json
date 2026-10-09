@@ -310,5 +310,61 @@
     "year": 1997,
     "genre": "Accion, Suspenso, Crimen",
     "quality": "HD"
+  },
+  {
+    "title": "La armadura de Dios",
+    "poster": "",
+    "video": "https://archive.org/download/7172-1080p/7172%281080p%29.mkv",
+    "year": 1986,
+    "genre": "Accion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "La armadura de Dios 2: Operacion Condor",
+    "poster": "",
+    "video": "",
+    "year": 1991,
+    "genre": "Accion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "La armadura de Dios 3: Zodiaco chino",
+    "poster": "",
+    "video": "",
+    "year": 2012,
+    "genre": "Accion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "Contacto sangriento",
+    "poster": "",
+    "video": "",
+    "year": 1988,
+    "genre": "Accion, Drama, Deporte",
+    "quality": "HD"
+  },
+  {
+    "title": "Contacto sangriento 2",
+    "poster": "",
+    "video": "",
+    "year": 1996,
+    "genre": "Accion, Drama, Deporte",
+    "quality": "HD"
+  },
+  {
+    "title": "Contacto sangriento 3",
+    "poster": "",
+    "video": "",
+    "year": 1996,
+    "genre": "Accion, Drama, Deporte",
+    "quality": "HD"
+  },
+  {
+    "title": "Contacto sangriento 4",
+    "poster": "",
+    "video": "",
+    "year": 1999,
+    "genre": "Accion, Drama, Deporte",
+    "quality": "HD"
   }
 ]
