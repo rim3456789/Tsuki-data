@@ -10,7 +10,7 @@
   {
     "title": "Arma mortal",
     "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg",
-    "video": "https://archive.org/download/depredador-1987-espanol-latino-dvd-fullscreen/Depredador%20%281987%29%20Espa%C3%B1ol%20Latino%20DVD%20Fullscreen.mp4",
+    "video": "",
     "year": 1987,
     "genre": "Accion, Comedia, Crimen",
     "quality": "HD"
@@ -181,6 +181,134 @@
     "video": "https://ia600906.us.archive.org/21/items/tg_807dfb8a1d2e4c2d95383576e8579027/LX4mJxs6dwfs.mp4",
     "year": 2017,
     "genre": "Aventura, Accion, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "El pájaro loco: La película",
+    "poster": "",
+    "video": "https://dn720004.ca.archive.org/0/items/HotelTransylvania3MonstruosDeVacacionesTrailerOficial2EspaolLatino/Woody.woodpecker.2017.1080p-dual-lat.mp4.mp4",
+    "year": 2017,
+    "genre": "Animacion, Comedia, Familia",
+    "quality": "HD"
+  },
+  {
+    "title": "El pájaro loco va al campamento",
+    "poster": "",
+    "video": "",
+    "year": 2024,
+    "genre": "Animacion, Comedia, Familia",
+    "quality": "HD"
+  },
+  {
+    "title": "Río",
+    "poster": "",
+    "video": "https://dn720301.ca.archive.org/0/items/rio_20220511_202205/Rio.mp4",
+    "year": 2011,
+    "genre": "Animacion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "Río 2",
+    "poster": "",
+    "video": "https://dn720402.ca.archive.org/0/items/rio-2_202205/Rio%202.mp4",
+    "year": 2014,
+    "genre": "Animacion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "Depredador",
+    "poster": "",
+    "video": "https://archive.org/download/3627-720p/3627%28720p%29.mkv",
+    "year": 1987,
+    "genre": "Accion, Ciencia ficcion, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "Depredador 2",
+    "poster": "",
+    "video": "",
+    "year": 1990,
+    "genre": "Accion, Ciencia ficcion, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Depredadores",
+    "poster": "",
+    "video": "",
+    "year": 2010,
+    "genre": "Accion, Ciencia ficcion, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "El depredador",
+    "poster": "",
+    "video": "",
+    "year": 2018,
+    "genre": "Accion, Ciencia ficcion, Terror",
+    "quality": "HD"
+  },
+  {
+    "title": "Prey",
+    "poster": "",
+    "video": "",
+    "year": 2022,
+    "genre": "Accion, Ciencia ficcion, Terror",
+    "quality": "HD"
+  },
+  {
+    "title": "Predator: Killer of Killers",
+    "poster": "",
+    "video": "",
+    "year": 2025,
+    "genre": "Animacion, Accion, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "Predator: Badlands",
+    "poster": "",
+    "video": "",
+    "year": 2025,
+    "genre": "Accion, Ciencia ficcion, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "Timecop: Policía en el tiempo",
+    "poster": "",
+    "video": "https://archive.org/download/1516-720p/1516%28720p%29.mkv",
+    "year": 1994,
+    "genre": "Accion, Ciencia ficcion, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Timecop 2: The Berlin Decision",
+    "poster": "",
+    "video": "",
+    "year": 2003,
+    "genre": "Accion, Ciencia ficcion, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Commando",
+    "poster": "",
+    "video": "https://archive.org/download/0405-720p/0405%28720p%29.mkv",
+    "year": 1985,
+    "genre": "Accion, Suspenso, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "Kung Fusion",
+    "poster": "",
+    "video": "",
+    "year": 2004,
+    "genre": "Accion, Comedia, Fantasia",
+    "quality": "HD"
+  },
+  {
+    "title": "ContraCara",
+    "poster": "",
+    "video": "",
+    "year": 1997,
+    "genre": "Accion, Suspenso, Crimen",
     "quality": "HD"
   }
 ]
