@@ -1,0 +1,952 @@
+[
+  {
+    "title": "Malcolm el de en medio",
+    "poster": "",
+    "description": "Malcolm, un chico con un coeficiente intelectual de 165, intenta sobrevivir en una familia caótica junto a sus hermanos Reese, Dewey y Francis, y a sus padres Lois y Hal.",
+    "year": 2000,
+    "genre": "Comedia",
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Pilot",
+            "video": "https://TU-SERVIDOR/malcolm/s01e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Red Dress",
+            "video": "https://TU-SERVIDOR/malcolm/s01e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Home Alone 4",
+            "video": "https://TU-SERVIDOR/malcolm/s01e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Shame",
+            "video": "https://TU-SERVIDOR/malcolm/s01e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Malcolm Babysits",
+            "video": "https://TU-SERVIDOR/malcolm/s01e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Sleepover",
+            "video": "https://TU-SERVIDOR/malcolm/s01e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Francis Escapes",
+            "video": "https://TU-SERVIDOR/malcolm/s01e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Krelboyne Picnic",
+            "video": "https://TU-SERVIDOR/malcolm/s01e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Lois vs. Evil",
+            "video": "https://TU-SERVIDOR/malcolm/s01e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "Stock Car Races",
+            "video": "https://TU-SERVIDOR/malcolm/s01e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Funeral",
+            "video": "https://TU-SERVIDOR/malcolm/s01e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Cheerleader",
+            "video": "https://TU-SERVIDOR/malcolm/s01e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Rollerskates",
+            "video": "https://TU-SERVIDOR/malcolm/s01e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "The Bots and the Bees",
+            "video": "https://TU-SERVIDOR/malcolm/s01e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "Smunday",
+            "video": "https://TU-SERVIDOR/malcolm/s01e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Waterpark",
+            "video": "https://TU-SERVIDOR/malcolm/s01e16.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Traffic Jam",
+            "video": "https://TU-SERVIDOR/malcolm/s02e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Halloween Approximately",
+            "video": "https://TU-SERVIDOR/malcolm/s02e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Lois' Birthday",
+            "video": "https://TU-SERVIDOR/malcolm/s02e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Dinner Out",
+            "video": "https://TU-SERVIDOR/malcolm/s02e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Casino",
+            "video": "https://TU-SERVIDOR/malcolm/s02e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Convention",
+            "video": "https://TU-SERVIDOR/malcolm/s02e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Robbery",
+            "video": "https://TU-SERVIDOR/malcolm/s02e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Therapy",
+            "video": "https://TU-SERVIDOR/malcolm/s02e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "High School Play",
+            "video": "https://TU-SERVIDOR/malcolm/s02e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "The Bully",
+            "video": "https://TU-SERVIDOR/malcolm/s02e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Old Mrs. Old",
+            "video": "https://TU-SERVIDOR/malcolm/s02e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Krelboyne Girl",
+            "video": "https://TU-SERVIDOR/malcolm/s02e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "New Neighbors",
+            "video": "https://TU-SERVIDOR/malcolm/s02e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Hal Quits",
+            "video": "https://TU-SERVIDOR/malcolm/s02e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "The Grandparents",
+            "video": "https://TU-SERVIDOR/malcolm/s02e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Traffic Ticket",
+            "video": "https://TU-SERVIDOR/malcolm/s02e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Surgery",
+            "video": "https://TU-SERVIDOR/malcolm/s02e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Reese Cooks",
+            "video": "https://TU-SERVIDOR/malcolm/s02e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Tutoring Reese",
+            "video": "https://TU-SERVIDOR/malcolm/s02e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Bowling",
+            "video": "https://TU-SERVIDOR/malcolm/s02e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Malcolm vs. Reese",
+            "video": "https://TU-SERVIDOR/malcolm/s02e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Mini-Bike",
+            "video": "https://TU-SERVIDOR/malcolm/s02e22.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 23,
+            "title": "Carnival",
+            "video": "https://TU-SERVIDOR/malcolm/s02e23.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 24,
+            "title": "Evacuation",
+            "video": "https://TU-SERVIDOR/malcolm/s02e24.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 25,
+            "title": "Flashback",
+            "video": "https://TU-SERVIDOR/malcolm/s02e25.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Houseboat",
+            "video": "https://TU-SERVIDOR/malcolm/s03e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Emancipation",
+            "video": "https://TU-SERVIDOR/malcolm/s03e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Book Club",
+            "video": "https://TU-SERVIDOR/malcolm/s03e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Malcolm's Girlfriend",
+            "video": "https://TU-SERVIDOR/malcolm/s03e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Charity",
+            "video": "https://TU-SERVIDOR/malcolm/s03e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Health Scare",
+            "video": "https://TU-SERVIDOR/malcolm/s03e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Christmas",
+            "video": "https://TU-SERVIDOR/malcolm/s03e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Poker",
+            "video": "https://TU-SERVIDOR/malcolm/s03e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Reese's Job",
+            "video": "https://TU-SERVIDOR/malcolm/s03e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "Lois' Makeover",
+            "video": "https://TU-SERVIDOR/malcolm/s03e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Company Picnic (Part 1)",
+            "video": "https://TU-SERVIDOR/malcolm/s03e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Company Picnic (Part 2)",
+            "video": "https://TU-SERVIDOR/malcolm/s03e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Reese Drives",
+            "video": "https://TU-SERVIDOR/malcolm/s03e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Cynthia's Back",
+            "video": "https://TU-SERVIDOR/malcolm/s03e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "Hal's Birthday",
+            "video": "https://TU-SERVIDOR/malcolm/s03e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Hal Coaches",
+            "video": "https://TU-SERVIDOR/malcolm/s03e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Dewey's Dog",
+            "video": "https://TU-SERVIDOR/malcolm/s03e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Poker #2",
+            "video": "https://TU-SERVIDOR/malcolm/s03e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Clip Show",
+            "video": "https://TU-SERVIDOR/malcolm/s03e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Jury Duty",
+            "video": "https://TU-SERVIDOR/malcolm/s03e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Cliques",
+            "video": "https://TU-SERVIDOR/malcolm/s03e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Monkey",
+            "video": "https://TU-SERVIDOR/malcolm/s03e22.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Zoo",
+            "video": "https://TU-SERVIDOR/malcolm/s04e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Humilithon",
+            "video": "https://TU-SERVIDOR/malcolm/s04e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Family Reunion",
+            "video": "https://TU-SERVIDOR/malcolm/s04e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Stupid Girl",
+            "video": "https://TU-SERVIDOR/malcolm/s04e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Forwards Backwards",
+            "video": "https://TU-SERVIDOR/malcolm/s04e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Forbidden Girlfriend",
+            "video": "https://TU-SERVIDOR/malcolm/s04e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Malcolm Holds His Tongue",
+            "video": "https://TU-SERVIDOR/malcolm/s04e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Boys at Ranch",
+            "video": "https://TU-SERVIDOR/malcolm/s04e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Grandma Sues",
+            "video": "https://TU-SERVIDOR/malcolm/s04e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "If Boys Were Girls",
+            "video": "https://TU-SERVIDOR/malcolm/s04e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Long Drive",
+            "video": "https://TU-SERVIDOR/malcolm/s04e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Kicked Out",
+            "video": "https://TU-SERVIDOR/malcolm/s04e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Stereo Store",
+            "video": "https://TU-SERVIDOR/malcolm/s04e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Hal's Friend",
+            "video": "https://TU-SERVIDOR/malcolm/s04e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "Garage Sale",
+            "video": "https://TU-SERVIDOR/malcolm/s04e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Academic Octathalon",
+            "video": "https://TU-SERVIDOR/malcolm/s04e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Clip Show 2",
+            "video": "https://TU-SERVIDOR/malcolm/s04e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Reese's Party",
+            "video": "https://TU-SERVIDOR/malcolm/s04e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Future Malcolm",
+            "video": "https://TU-SERVIDOR/malcolm/s04e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Baby (Part 1)",
+            "video": "https://TU-SERVIDOR/malcolm/s04e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Baby (Part 2)",
+            "video": "https://TU-SERVIDOR/malcolm/s04e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Day Care",
+            "video": "https://TU-SERVIDOR/malcolm/s04e22.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Vegas",
+            "video": "https://TU-SERVIDOR/malcolm/s05e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Watching the Baby",
+            "video": "https://TU-SERVIDOR/malcolm/s05e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Goodbye Kitty",
+            "video": "https://TU-SERVIDOR/malcolm/s05e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Thanksgiving",
+            "video": "https://TU-SERVIDOR/malcolm/s05e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Malcolm Films Reese",
+            "video": "https://TU-SERVIDOR/malcolm/s05e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Malcolm's Job",
+            "video": "https://TU-SERVIDOR/malcolm/s05e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Christmas Trees",
+            "video": "https://TU-SERVIDOR/malcolm/s05e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Block Party",
+            "video": "https://TU-SERVIDOR/malcolm/s05e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Dirty Magazine",
+            "video": "https://TU-SERVIDOR/malcolm/s05e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "Hot Tub",
+            "video": "https://TU-SERVIDOR/malcolm/s05e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Ida's Boyfriend",
+            "video": "https://TU-SERVIDOR/malcolm/s05e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Softball",
+            "video": "https://TU-SERVIDOR/malcolm/s05e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Lois' Sister",
+            "video": "https://TU-SERVIDOR/malcolm/s05e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Malcolm Dates a Family",
+            "video": "https://TU-SERVIDOR/malcolm/s05e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "Reese's Apartment",
+            "video": "https://TU-SERVIDOR/malcolm/s05e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Malcolm Visits College",
+            "video": "https://TU-SERVIDOR/malcolm/s05e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Polly in the Middle",
+            "video": "https://TU-SERVIDOR/malcolm/s05e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Dewey's Special Class",
+            "video": "https://TU-SERVIDOR/malcolm/s05e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Experiment",
+            "video": "https://TU-SERVIDOR/malcolm/s05e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Victor's Other Family",
+            "video": "https://TU-SERVIDOR/malcolm/s05e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Reese Joins the Army (Part 1)",
+            "video": "https://TU-SERVIDOR/malcolm/s05e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Reese Joins the Army (Part 2)",
+            "video": "https://TU-SERVIDOR/malcolm/s05e22.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Reese Comes Home",
+            "video": "https://TU-SERVIDOR/malcolm/s06e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Buseys Run Away",
+            "video": "https://TU-SERVIDOR/malcolm/s06e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Standee",
+            "video": "https://TU-SERVIDOR/malcolm/s06e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Pearl Harbor",
+            "video": "https://TU-SERVIDOR/malcolm/s06e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Kitty's Back",
+            "video": "https://TU-SERVIDOR/malcolm/s06e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Hal's Christmas Gift",
+            "video": "https://TU-SERVIDOR/malcolm/s06e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Hal Sleepwalks",
+            "video": "https://TU-SERVIDOR/malcolm/s06e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Lois Battles Jamie",
+            "video": "https://TU-SERVIDOR/malcolm/s06e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Malcolm's Car",
+            "video": "https://TU-SERVIDOR/malcolm/s06e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "Billboard",
+            "video": "https://TU-SERVIDOR/malcolm/s06e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Dewey's Opera",
+            "video": "https://TU-SERVIDOR/malcolm/s06e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "Living Will",
+            "video": "https://TU-SERVIDOR/malcolm/s06e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Tiki Lounge",
+            "video": "https://TU-SERVIDOR/malcolm/s06e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Ida Loses a Leg",
+            "video": "https://TU-SERVIDOR/malcolm/s06e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "Chad's Sleepover",
+            "video": "https://TU-SERVIDOR/malcolm/s06e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "No Motorcycles",
+            "video": "https://TU-SERVIDOR/malcolm/s06e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Butterflies",
+            "video": "https://TU-SERVIDOR/malcolm/s06e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Ida's Dance",
+            "video": "https://TU-SERVIDOR/malcolm/s06e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Motivational Speaker",
+            "video": "https://TU-SERVIDOR/malcolm/s06e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Stilts",
+            "video": "https://TU-SERVIDOR/malcolm/s06e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Buseys Take a Hostage",
+            "video": "https://TU-SERVIDOR/malcolm/s06e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Mrs. Tri-County",
+            "video": "https://TU-SERVIDOR/malcolm/s06e22.mp4",
+            "duration": "22 min"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "episodes": [
+          {
+            "number": 1,
+            "title": "Burning Man",
+            "video": "https://TU-SERVIDOR/malcolm/s07e01.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 2,
+            "title": "Health Insurance",
+            "video": "https://TU-SERVIDOR/malcolm/s07e02.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 3,
+            "title": "Reese vs. Stevie",
+            "video": "https://TU-SERVIDOR/malcolm/s07e03.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 4,
+            "title": "Halloween",
+            "video": "https://TU-SERVIDOR/malcolm/s07e04.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 5,
+            "title": "Jessica Stays Over",
+            "video": "https://TU-SERVIDOR/malcolm/s07e05.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 6,
+            "title": "Secret Boyfriend",
+            "video": "https://TU-SERVIDOR/malcolm/s07e06.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 7,
+            "title": "Blackout",
+            "video": "https://TU-SERVIDOR/malcolm/s07e07.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 8,
+            "title": "Army Buddy",
+            "video": "https://TU-SERVIDOR/malcolm/s07e08.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 9,
+            "title": "Malcolm Defends Reese",
+            "video": "https://TU-SERVIDOR/malcolm/s07e09.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 10,
+            "title": "Malcolm's Money",
+            "video": "https://TU-SERVIDOR/malcolm/s07e10.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 11,
+            "title": "Bride of Ida",
+            "video": "https://TU-SERVIDOR/malcolm/s07e11.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 12,
+            "title": "College Recruiters",
+            "video": "https://TU-SERVIDOR/malcolm/s07e12.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 13,
+            "title": "Mono",
+            "video": "https://TU-SERVIDOR/malcolm/s07e13.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 14,
+            "title": "Hal Grieves",
+            "video": "https://TU-SERVIDOR/malcolm/s07e14.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 15,
+            "title": "A.A.",
+            "video": "https://TU-SERVIDOR/malcolm/s07e15.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 16,
+            "title": "Lois Strikes Back",
+            "video": "https://TU-SERVIDOR/malcolm/s07e16.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 17,
+            "title": "Hal's Dentist",
+            "video": "https://TU-SERVIDOR/malcolm/s07e17.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 18,
+            "title": "Bomb Shelter",
+            "video": "https://TU-SERVIDOR/malcolm/s07e18.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 19,
+            "title": "Stevie in the Hospital",
+            "video": "https://TU-SERVIDOR/malcolm/s07e19.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 20,
+            "title": "Cattle Court",
+            "video": "https://TU-SERVIDOR/malcolm/s07e20.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 21,
+            "title": "Morp",
+            "video": "https://TU-SERVIDOR/malcolm/s07e21.mp4",
+            "duration": "22 min"
+          },
+          {
+            "number": 22,
+            "title": "Graduation",
+            "video": "https://TU-SERVIDOR/malcolm/s07e22.mp4",
+            "duration": "22 min"
+          }
+        ]
+      }
+    ]
+  }
+]
