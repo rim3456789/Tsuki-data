@@ -5,7 +5,8 @@
     "video": "https://ia600704.us.archive.org/3/items/alerojo_202605/alerojo.mp4",
     "year": 2021,
     "genre": "Accion",
-    "quality": "HD"
+    "quality": "HD",
+    "video2": "https://archive.org/download/alerta-roja_202607/Alerta%20Roja.mp4"
   },
   {
     "title": "Arma mortal",
@@ -365,6 +366,118 @@
     "video": "",
     "year": 1999,
     "genre": "Accion, Drama, Deporte",
+    "quality": "HD"
+  },
+  {
+    "title": "La era del hielo",
+    "poster": "",
+    "video": "https://archive.org/download/la-era-del-hielo-1/LA%20ERA%20DEL%20HIELO%201.mp4",
+    "year": 2002,
+    "genre": "Animacion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "La era del hielo 2",
+    "poster": "",
+    "video": "https://archive.org/download/la-era-del-hielo-2/LA%20ERA%20DEL%20HIELO%202.mp4",
+    "year": 2006,
+    "genre": "Animacion, Aventura, Comedia",
+    "quality": "HD"
+  },
+  {
+    "title": "Transformers",
+    "poster": "",
+    "video": "https://archive.org/download/transformers-2007_202608/Transformers%202007.mp4",
+    "year": 2007,
+    "genre": "Accion, Ciencia ficcion, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "Estación zombie",
+    "poster": "",
+    "video": "https://archive.org/download/estcnzmbtab-1080/ESTCNZMBTAB-1080.mkv",
+    "year": 2016,
+    "genre": "Terror, Accion, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Capitán América: El primer vengador",
+    "poster": "",
+    "video": "https://archive.org/download/cptnamrepv-1080/CPTNAMREPV-1080.mkv",
+    "year": 2011,
+    "genre": "Accion, Aventura, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "El sorprendente Hombre Araña",
+    "poster": "",
+    "video": "https://archive.org/download/peliculas_202608/El%20Sorprendente%20Hombre-Ara%C3%B1a.mp4",
+    "year": 2012,
+    "genre": "Accion, Aventura, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "El Hombre Araña",
+    "poster": "",
+    "video": "https://archive.org/download/peliculas_202608/El%20hombre%20ara%C3%B1a%202002.mp4",
+    "year": 2002,
+    "genre": "Accion, Aventura, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "Annabelle 3: Viene a casa",
+    "poster": "",
+    "video": "https://archive.org/download/pelis_202608/Annabelle%203%20Viene%20a%20casa.mp4",
+    "year": 2019,
+    "genre": "Terror, Misterio, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Apocalipsis Z: El principio del fin",
+    "poster": "",
+    "video": "https://archive.org/download/pelis_202608/Apocalipsis%20Z%20el%20principio%20del%20fin.mp4",
+    "year": 2024,
+    "genre": "Terror, Accion, Suspenso",
+    "quality": "HD"
+  },
+  {
+    "title": "Azrael",
+    "poster": "",
+    "video": "https://archive.org/download/pelis_202608/Azrael.mp4",
+    "year": 2024,
+    "genre": "Terror, Suspenso, Accion",
+    "quality": "HD"
+  },
+  {
+    "title": "Venom: El último baile",
+    "poster": "",
+    "video": "https://archive.org/download/pelis_202608/Venom%20El%20%C3%BAltimo%20baile.mp4",
+    "year": 2024,
+    "genre": "Accion, Ciencia ficcion, Aventura",
+    "quality": "HD"
+  },
+  {
+    "title": "Spider-Man: Sin camino a casa",
+    "poster": "",
+    "video": "https://archive.org/download/spider-man-sin-camino-a-casa_202607/Spider-Man%20Sin%20camino%20a%20casa.mp4",
+    "year": 2021,
+    "genre": "Accion, Aventura, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "Spider-Man: Lejos de casa",
+    "poster": "",
+    "video": "https://archive.org/download/spider-man-lejos-de-casa-2019-latino/spider-man-lejos-de-casa-2019-%5Blatino%5D.mp4",
+    "year": 2019,
+    "genre": "Accion, Aventura, Ciencia ficcion",
+    "quality": "HD"
+  },
+  {
+    "title": "Amor explosivo",
+    "poster": "",
+    "video": "https://archive.org/download/amor-explosivo-2025-latino/amor-explosivo-2025-%5Blatino%5D.mp4",
+    "year": 2025,
+    "genre": "",
     "quality": "HD"
   }
 ]
